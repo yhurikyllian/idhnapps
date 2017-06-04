@@ -1,0 +1,85 @@
+
+header {
+  background-image: url('../img/system/bg-black.png');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+header .intro-text .intro-lead-in {
+  font-family: 'Lato', sans-serif!important;
+  font-size: 20px;
+  line-height: 22px;
+  margin-bottom: 25px;
+}
+
+header .intro-text .intro-heading {
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 50px;
+  margin-bottom: 25px;
+}
+
+header .intro-lead-in-judul-menu {
+	font-family: 'Lato Black', sans-serif;
+  	font-size: 30px;
+    font-weight: 400;
+  	line-height: 22px;
+  	margin-bottom: 25px;
+}
+
+header .intro-lead-in-tanggal-menu {
+	font-family: 'Lato', sans-serif;
+  	font-size: 20px;
+  	line-height: 22px;
+  	margin-bottom: 25px;
+}
+
+.navbar-title a {
+  color:#fff;  
+}
+
+.navbar-title a:hover,
+.navbar-title a:focus {
+  color: #fed136;
+  text-decoration: none;
+  outline: none;
+}
+
+header .intro-text-menu {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+@media (min-width: 768px) {
+  header .intro-text-menu {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+}
+
+.navbar-custom .navbar-brand {
+  color: #fed136;
+  font-family: 'Lato Black', sans-serif;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active {
+  color: #fec503;
+}
+
+.tab-menu-list li.active a, .tab-menu-list li:hover a {
+  background: #FED136 none repeat scroll 0 0;
+  color: #222!important;
+  border-color: #FED136;
+}
+

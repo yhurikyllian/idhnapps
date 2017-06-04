@@ -1,0 +1,4 @@
+[10-May-2017 05:26:00 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/k8977764/public_html/event/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[12-May-2017 10:40:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/k8977764/public_html/event/application/controllers/Polling.php on line 22
+[12-May-2017 10:40:25 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/k8977764/public_html/event/application/controllers/Polling.php on line 22
+[12-May-2017 10:45:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/k8977764/public_html/event/application/controllers/Polling.php on line 22

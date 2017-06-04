@@ -1,0 +1,8 @@
+.navbar-custom {
+    background-color: #333;
+    padding: 25px 0;
+    -webkit-transition: padding 0.3s;
+    -moz-transition: padding 0.3s;
+    transition: padding 0.3s;
+    border: none;
+  }
