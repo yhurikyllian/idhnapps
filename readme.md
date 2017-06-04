@@ -2,7 +2,7 @@
 IDHN Apps
 ###################
   
-    
+Event Apps    
 
 *******************
 Apps version : 1.0
